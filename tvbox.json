@@ -289,7 +289,7 @@
   {
    "name": "咪咕直播",
    "type": 0,
-   "url": "http://172.21.9.5:8899/live.m3u",
+   "url": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/ggooogg/tvbox/main/live.m3u",
    "epg": "http://epg.51zmt.top:8000/e.xml",
    "logo": ""
   }
